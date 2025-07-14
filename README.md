@@ -3,6 +3,10 @@ Synchronize playlists from your own music server: Nextcloud - Subsonic - Ampache
 
 [<img src="https://developer.garmin.com/static/available-badge-9e49ebfb7336ce47f8df66dfe45d28ae.svg" width="200">](https://apps.garmin.com/en-US/apps/600bd75f-6ccf-4ca5-bc7a-0a4fcfdcf794)
 
+## Development
+- tested with Connect IQ 4.1.5 August 2022
+- breaking changes with 4.1.6 November 2022
+
 ## Features:
 - Browse your online playlists and podcasts
 - Make playlists available offline
